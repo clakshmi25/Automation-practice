@@ -4,5 +4,5 @@ class Person
 
 }
 
-let person = new Person()
+let person1 = new Person()
 console.log(person.age)
