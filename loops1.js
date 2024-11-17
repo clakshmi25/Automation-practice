@@ -42,6 +42,19 @@ for (let k=0; k<array1.length; k++)
     console.log(array1[k])
 }
 
+//Addition using for loop
+let sum = 0
+for (i=0; i<=10; i++)
+{
+    sum = sum + i
+    console.log(sum)
+}
 
+function sum(a,b)
+{
+return a+b
+}
+//let total = sum(2,3)
+console.log(sum(2,3)) 
 
 
